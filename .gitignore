@@ -1,0 +1,33 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Keil user files
+*.uvoptx
+*.uvguix.*
+
+# Build outputs
+EIDE/build/
+EIDE/.pack/
+EIDE/.cmsis/
+EIDE/.vscode/
+MDK-ARM/TYWatch/
+MDK-ARM/.vscode/
+*.o
+*.d
+*.crf
+*.map
+*.axf
+*.elf
+*.hex
+*.bin
+*.lst
+*.lnp
+*.s19
+*.htm
+*.log
+
+# Generated databases
+compile_commands.json

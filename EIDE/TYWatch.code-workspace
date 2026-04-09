@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "lsm6ds3.h": "c"
+        }
+    },
+    "extensions": {}
+}
